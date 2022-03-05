@@ -1,0 +1,62 @@
+
+
+body{
+background-color: #0084AD;
+
+}
+
+.encabezado{
+  display: flex;
+  background-color: #FFEC86;
+  height: 90px;
+  margin: 0px;
+}
+
+h6{
+
+  font-family: Revalia;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+h2{
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: 300;font-size: 36px;
+line-height: 47px;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+margin: 10%;
+}
+
+.boton_ini{
+    font-family: Rock Salt;
+  font-size: 18px;
+  background-color: #FFEC86;
+  color: black;
+border: 1px solid #FFE5A4;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+align-items: center;
+margin: 10%;
+
+}
+
+.final{
+background-image: url("../Imagenes/final.png");
+background-size: cover;
+color: #FFEC86;
+height: 30px;
+margin: 50%;
+}
+
+.ju{
+align-items: center;
+text-align: center;
+}
